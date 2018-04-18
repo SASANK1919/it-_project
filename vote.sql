@@ -4,8 +4,7 @@
 
 
 
-bnjbnjkbnj
-nmkljkll
+
 -- Host: localhost    Database: voting
 -- ------------------------------------------------------
 -- Server version	5.7.21-0ubuntu0.16.04.1
