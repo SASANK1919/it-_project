@@ -1,5 +1,11 @@
 -- MySQL dump 10.13  Distrib 5.7.21, for Linux (x86_64)
 --
+
+
+
+
+bnjbnjkbnj
+nmkljkll
 -- Host: localhost    Database: voting
 -- ------------------------------------------------------
 -- Server version	5.7.21-0ubuntu0.16.04.1
